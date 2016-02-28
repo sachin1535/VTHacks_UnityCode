@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/VT_Hack_1_1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Tree9/tree9.unity
+  isLoaded: 1
+  isActive: 0
